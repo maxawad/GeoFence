@@ -313,3 +313,11 @@ Received Import Request.
 Start importing Assets/Yellow.mat using Guid(826a5108239f64a8f9e059f2ed6b34c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae3d1f73220ce2d532428de16580ff8') in 0.005252 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 278.670453 seconds.
+  path: Assets/Yellow.mat
+  artifactKey: Guid(826a5108239f64a8f9e059f2ed6b34c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yellow.mat using Guid(826a5108239f64a8f9e059f2ed6b34c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5fb62b58456b9d309850a371832cd3') in 0.015863 seconds
+Number of updated asset objects reloaded before import = 19
+Number of asset objects unloaded after import = 1
