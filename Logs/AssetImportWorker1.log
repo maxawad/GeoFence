@@ -201,3 +201,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 115049.499140 seconds.
+  path: Assets/XR/Settings/OpenXR Package Settings.asset
+  artifactKey: Guid(83b213ef7f6154c0581e7148744e1918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(83b213ef7f6154c0581e7148744e1918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3589895374b132f9b7dd1a1abee0a6ef') in 0.020282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/XRI/Settings/XRInteractionEditorSettings.asset
+  artifactKey: Guid(add0907c801f64c008686933fc9d047d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings/XRInteractionEditorSettings.asset using Guid(add0907c801f64c008686933fc9d047d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec47e5500c849bc9543350726751f912') in 0.002139 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.816330 seconds.
+  path: Assets/XR/Settings/OculusSettings.asset
+  artifactKey: Guid(c2cebef92cc59432d8b54d3d35e55343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/OculusSettings.asset using Guid(c2cebef92cc59432d8b54d3d35e55343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab96f329a8608a3c750096f84541fba') in 0.001180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 201.709778 seconds.
+  path: Assets/GreyColor.mat
+  artifactKey: Guid(0889603ef0f7a47e8a72fdfab88171f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreyColor.mat using Guid(0889603ef0f7a47e8a72fdfab88171f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bcce9f64927bd46849a73a68becde3b') in 0.127527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
