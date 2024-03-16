@@ -4,21 +4,21 @@ using UnityEngine;
 
 public class collition : MonoBehaviour
 {
-    void private void OnTriggerEnter(Collider other) {
+    private void OnTriggerEnter(Collider other) {
         if (other.gameObject.tag == "Zap") {
-            print("zap e/nter");)
+            print("zap enter");
         }
     }
 
-    void private void OnTriggerStay(Collider other) {
+    private void OnTriggerStay(Collider other) {
         if (other.gameObject.tag == "Zap") {
-            print("zap stay");)
+            print("zap stay");
         }
     }
 
     private void OnTriggerExit(Collider other) {
     if (other.gameObject.tag == "Zap") {
-            print("zap exit");)
+            print("zap exit");
         }
     }
 }
