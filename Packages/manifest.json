@@ -2,7 +2,9 @@
   "dependencies": {
     "com.atteneder.gltfast": "6.2.0",
     "com.bezel.unity": "https://github.com/bezi3d/bezi_unity_bridge.git?path=/BeziUnityBridgePlugin#main",
+    "com.unity.feature.vr": "1.0.0",
     "com.unity.textmeshpro": "3.0.8",
+    "com.unity.xr.interaction.toolkit": "2.5.3",
     "com.unity.xr.management": "4.4.1",
     "com.unity.xr.oculus": "4.1.2",
     "com.unity.xr.openxr": "1.10.0",
