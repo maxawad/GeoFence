@@ -1,1 +1,10 @@
 Library/
+Temp/
+Obj/
+Build/
+Builds/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
